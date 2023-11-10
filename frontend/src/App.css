@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
+.todo li,
+.done li {
+  background-color: #f3f3f3;
+}
