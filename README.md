@@ -37,7 +37,9 @@ Before running the frontend, make sure you have the following installed:
 ## Usage
 
 Start the development server:
-npm install
+``` bash
+npm start
+```
 
 ## Features
 
